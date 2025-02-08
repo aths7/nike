@@ -1,4 +1,3 @@
-import React from 'react'
 
 const CustomerReviews = () => {
     return (
@@ -6,4 +5,4 @@ const CustomerReviews = () => {
     )
 }
 
-export default CustomerReviews
+export default CustomerReviews;
